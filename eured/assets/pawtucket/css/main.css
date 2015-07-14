@@ -2626,3 +2626,24 @@ div.advancedSearchField {
     display:inline-block;
     margin:10px;;
 }
+
+.viewerButtons {
+    padding:20px 0px;
+}
+
+.viewerButtons a {
+    padding:4px 4px 4px 6px !important;
+    border-radius: 8px;
+    background:lightgray;
+    color:white;
+    margin-right:6px;
+}
+
+.columnViewer .panel {
+    box-shadow:none;
+    border:none;
+}
+
+pre.hljs.xml {
+    font-size:0.85em;
+}
